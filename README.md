@@ -13,9 +13,9 @@ Easily integrate the Kontext Inpainting capability using our pre-configured work
 
 🖼️ Workflow preview:
 <p float="left">
-  <img src="https://github.com/ZenAI-Vietnam/ComfyUI-Kontext-Inpainting/blob/main/assets/workflow.png" width="600" />
+  <img src="https://github.com/ZenAI-Vietnam/ComfyUI-Kontext-Inpainting/blob/main/assets/workflow.png"/>
   <br/>
-  <img src="https://github.com/ZenAI-Vietnam/ComfyUI-Kontext-Inpainting/blob/main/assets/workflow2.png" width="600" />
+  <img src="https://github.com/ZenAI-Vietnam/ComfyUI-Kontext-Inpainting/blob/main/assets/workflow2.png"/>
 </p>
 
 📥 Download the workflow JSON file here:  
